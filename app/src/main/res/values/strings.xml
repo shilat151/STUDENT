@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">טופס הרשמה</string>
+    <string name="title">טופס הרשמה לתלמיד</string>
+
+    <string name="first_name">שם פרטי</string>
+    <string name="last_name">שם משפחה</string>
+    <string name="email">כתובת אימייל</string>
+
+    <string name="class_title">בחרי כיתה:</string>
+    <string name="class10">י׳</string>
+    <string name="class11">י״א</string>
+    <string name="class12">י״ב</string>
+
+    <string name="major_title">בחרי מגמה:</string>
+    <string name="notifications">אני רוצה לקבל התראות</string>
+    <string name="terms">אני מאשרת את תנאי השימוש</string>
+    <string name="register">הרשמה</string>
+
+    <string name="error_first">חובה למלא שם פרטי</string>
+    <string name="error_last">חובה למלא שם משפחה</string>
+    <string name="error_email">חובה למלא אימייל</string>
+    <string name="error_email_invalid">כתובת האימייל אינה תקינה</string>
+    <string name="error_class">צריך לבחור כיתה</string>
+    <string name="error_major">צריך לבחור מגמה</string>
+    <string name="error_terms">צריך לאשר את תנאי השימוש</string>
+
+    <string name="success">ההרשמה הצליחה!</string>
+    <string name="saved">הפרטים השמורים:</string>
+
+    <string name="result_name">שם פרטי:</string>
+    <string name="result_last">שם משפחה:</string>
+    <string name="result_email">אימייל:</string>
+    <string name="result_class">כיתה:</string>
+    <string name="result_major">מגמה:</string>
+    <string name="result_notifications">קבלת התראות:</string>
+
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+
+    <string-array name="majors">
+        <item>בחרי מגמה</item>
+        <item>מדעי המחשב</item>
+        <item>ביולוגיה</item>
+        <item>פיזיקה</item>
+        <item>כימיה</item>
+    </string-array>
+
+</resources>
